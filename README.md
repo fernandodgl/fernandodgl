@@ -1,5 +1,5 @@
 <!--- 
-- 👋 Hi, I’m Fernando Leite. Pleased to meet you. 
+- 👋 Hi, I’m Fernando Leite. Pleased to meet you! 
           - Computer Engineering Student
           - Financial Management, Accountability and Audit (MBA)
           - Business Administration (Grad)
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m looking to collaborate mainly on projects about Finance, Health and Social Media fields. Not discarding any other areas, though. Not at all.
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandodgl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandodgl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodgl&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
