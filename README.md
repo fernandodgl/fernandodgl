@@ -16,9 +16,9 @@ fernandodgl/fernandodgl is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi there! I’m Fernando Leite. Pleased to meet you. 
-          - Computer Engineering Student
-          - Financial Management, Accountability and Audit (MBA)
-          - Business Administration (Grad)
+        🎓 - Computer Engineering Student
+        🎓 - Financial Management, Accountability and Audit (MBA)
+        🎓 - Business Administration (Grad)
 - 🎢 Tech, Music and Art enthusiast since spoke my first words.
           
 - 👀 I’m interested in new technologies that will make Data professionals spend more time in decision making instead of manual work. Looking forward to dive into Quantum Machine Learning.
@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m looking to collaborate mainly on projects about Finance, Health and Social Media fields. Not discarding any other areas, though. Not at all.
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandodgl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodgl&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandodgl&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodgl&layout=compact&langs_count=16&theme=blueberry"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
