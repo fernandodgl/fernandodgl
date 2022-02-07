@@ -1,5 +1,5 @@
 <!--- 
-- 👋 Hi, I’m Fernando Leite. Pleased to meet you! 
+- 👋 Hi, I’m Fernando Leite! Appreciate you passing by. 
           - Computer Engineering Student (Data focused)
           - Financial Management, Accountability and Audit (MBA)
           - Business Administration (Grad)
