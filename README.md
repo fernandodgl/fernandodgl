@@ -1,6 +1,6 @@
 <!--- 
 - 👋 Hi, I’m Fernando Leite. Pleased to meet you! 
-          - Computer Engineering Student
+          - Computer Engineering Student (Data focused)
           - Financial Management, Accountability and Audit (MBA)
           - Business Administration (Grad)
 - 🎢 Tech, Music and Art enthusiast since spoke my first words.
