@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fernandodgl (Fernando Leite). Please to meet you. 
+- 👋 Hi, I’m Fernando Leite. Pleased to meet you. 
           - Computer Engineering Student
           - Financial Management, Accountability and Audit (MBA)
           - Business Administration (Grad)
