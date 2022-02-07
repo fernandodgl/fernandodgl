@@ -28,10 +28,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandodgl&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodgl&layout=compact&langs_count=16&theme=blueberry"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-Python" height="30" width="40" 
-</div>
   
   ##
  
